@@ -1,0 +1,5 @@
+[Student]-(Add Task)
+[Student]-(Mark Task as Done)
+(Add Task)>(Log In)
+(Mark Task as Done)>(Log In)
+(Log In)<(Invalid Credentials)
